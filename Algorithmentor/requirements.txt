@@ -1,0 +1,15 @@
+collections
+math
+matplotlib
+matplotlib_inline
+numpy
+pandas
+scipy
+seaborn
+sklearn
+surprise
+tensorflow
+tqdm
+warnings
+wordcloud
+xgboost
